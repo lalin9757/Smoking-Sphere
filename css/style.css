@@ -1,0 +1,109 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+}
+
+h2 {
+    font-size: 30px;
+    font-weight: 700;
+    color: #0a7ec1;
+    text-transform: uppercase;
+}
+
+/* navbar */
+/* ............ */
+.navbar-brand {
+    font-size: 30px;
+    color: #000000;
+    font-weight: bold;
+}
+
+.nav-span {
+    color: red;
+}
+
+.navbar-brand:hover {
+    font-size: 30px;
+    color: #4e4b4bd7;
+    font-weight: bold;
+}
+
+.nav-span:hover {
+    color: #e43333eb;
+}
+
+.about-us {
+    color: #fffffffc;
+    background-color: #000000;
+    border-radius: 10px;
+    margin-left: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.about-us:hover {
+    color: #000000;
+    border-radius: 10px;
+    background-color: transparent;
+    margin-left: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    transition: 0.9s;
+}
+
+/* Hero slides */
+/* ............ */
+#hero-slides {
+    margin-bottom: 100px;
+}
+
+/*Intruduction*/
+/* ............ */
+#intruduction {
+    margin-bottom: 100px;
+}
+
+/*health-risk*/
+/* ............ */
+#health-risk {
+    margin-bottom: 100px;
+}
+
+/*quitting-smoking*/
+/* ............ */
+#quitting-smoking {
+    margin-bottom: 100px;
+}
+
+/*secondhand-smoke*/
+/* ............ */
+#secondhand-smoke {
+    margin-bottom: 100px;
+}
+
+/*tobacco-industry*/
+/* ............ */
+#tobacco-industry {
+    margin-bottom: 100px;
+}
+
+/*govt-regulation*/
+/* ............ */
+#govt-regulation {
+    margin-bottom: 100px;
+}
+
+/*smoking-rate*/
+/* ............ */
+#smoking-rate {
+    margin-bottom: 100px;
+}
+
+/* footer */
+.footer-brand {
+    font-size: 30px;
+    color: #ffffff;
+    font-weight: bold;
+}
